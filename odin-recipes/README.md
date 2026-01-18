@@ -1,1 +1,2 @@
-A simple recipe project to resharpen front-end development skills : HTML and CSS.
+#The Odin Recipes
+A simple recipe project to resharpen front-end development skills: HTML and CSS.
