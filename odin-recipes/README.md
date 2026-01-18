@@ -1,0 +1,1 @@
+A simple recipe project to resharpen front-end development skills : HTML and CSS.
